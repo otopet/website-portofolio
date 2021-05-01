@@ -1,0 +1,29 @@
+body {
+  min-height: 2500px;
+}
+
+.jumbotron {
+  padding-top: 70px;
+  background-color: #28f175;
+}
+
+.photo {
+  padding-top: 70px;
+  background-color: #28f175;
+}
+
+.card-img-top {
+  height: 300px;
+  object-fit: cover;
+  background-color: #28f175;
+}
+
+.label {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.copy {
+  padding-bottom: 20px;
+  background-color: #28f175;
+}
