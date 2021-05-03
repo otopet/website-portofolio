@@ -4,3 +4,4 @@ Semua kelas (4 SI/TI reguler/malam) harus membuat tugas tersebut, sebagai instru
 
 ![petunjuk-tugas-uts](https://user-images.githubusercontent.com/77085799/115705751-1acd8d80-a397-11eb-960f-610a418172e2.PNG)
 
+Link :  https://cicinovitasari.github.io/
